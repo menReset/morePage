@@ -1,0 +1,259 @@
+[
+        {
+            "name": "A",
+            "list": [
+                {
+                    "name": "俄罗斯",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPmAWBnoAAAJEOggWtM595.jpg",
+                    "act": "",
+                    "id": "a1"
+                },
+                {
+                    "name": "埃及",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPiAVq1_AAAJFvF1K7M133.jpg",
+                    "act": "",
+                    "id": "a2"
+                },
+                {
+                    "name": "沙特阿拉伯",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPmABSwuAAANbFNHo_c272.jpg",
+                    "act": "",
+                    "id": "a3"
+                },
+                {
+                    "name": "乌拉圭",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPmAYYptAAAXQccQvqc767.jpg",
+                    "act": "",
+                    "id": "a4"
+                }
+            ]
+        },
+        {
+            "name": "B",
+            "list": [
+                {
+                    "name": "伊朗",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPiAY3vgAAAUJ6dAtHc013.jpg",
+                    "act": "",
+                    "id": "b1"
+                },
+                {
+                    "name": "摩洛哥",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPiAFaRFAAAFFT1oVEI706.jpg",
+                    "act": "",
+                    "id": "b2"
+                },
+                {
+                    "name": "葡萄牙",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPmAfo19AAANSJclN98725.jpg",
+                    "act": "",
+                    "id": "b3"
+                },
+                {
+                    "name": "西班牙",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/BF/rB8ApFr0NPeAJ0dMAAAPtliy6uM210.jpg",
+                    "act": "",
+                    "id": "b4"
+                }
+            ]
+        },
+        {
+            "name": "C",
+            "list": [
+                {
+                    "name": "澳大利亚",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPiAIqmVAAAaQ31-qak453.jpg",
+                    "act": "",
+                    "id": "c1"
+                },
+                {
+                    "name": "丹麦",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPiABjH_AAAKUb1xT9k052.jpg",
+                    "act": "",
+                    "id": "c2"
+                },
+                {
+                    "name": "法国",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPiAbmdsAAAJQhG6zFY412.jpg",
+                    "act": "",
+                    "id": "c3"
+                },
+                {
+                    "name": "秘鲁",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPmABdXKAAAHDdWGo5M629.jpg",
+                    "act": "",
+                    "id": "c4"
+                }
+            ]
+        },
+        {
+            "name": "D",
+            "list": [
+                {
+                    "name": "阿根廷",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPeAMloyAAAK3QK6QjU022.jpg",
+                    "act": "",
+                    "id": "d1"
+                },
+                {
+                    "name": "克罗地亚",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPiAQfMUAAAUsZzeO3U662.jpg",
+                    "act": "",
+                    "id": "d2"
+                },
+                {
+                    "name": "冰岛",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPiAFQVSAAAOVoguOn0188.jpg",
+                    "act": "",
+                    "id": "d3"
+                },
+                {
+                    "name": "尼日利亚",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPiAG3fMAAAGksSkzik668.jpg",
+                    "act": "",
+                    "id": "d4"
+                }
+            ]
+        },
+        {
+            "name": "E",
+            "list": [
+                {
+                    "name": "巴西",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPiAd-z7AAAVxrJNviU748.jpg",
+                    "act": "",
+                    "id": "e1"
+                },
+                {
+                    "name": "哥斯达黎加",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPiAIyK_AAAME59i_n0682.jpg",
+                    "act": "",
+                    "id": "e2"
+                },
+                {
+                    "name": "瑞士",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPmAflw3AAALrMroerI782.jpg",
+                    "act": "",
+                    "id": "e3"
+                },
+                {
+                    "name": "塞尔维亚",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPmAXfKLAAAPlf0SkkI534.jpg",
+                    "act": "",
+                    "id": "e4"
+                }
+            ]
+        },
+        {
+            "name": "F",
+            "list": [
+                {
+                    "name": "德国",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPiAY6j1AAAHkJNDCYY866.jpg",
+                    "act": "",
+                    "id": "f1"
+                },
+                {
+                    "name": "韩国",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPiARQFhAAASrk6EbzA809.jpg",
+                    "act": "",
+                    "id": "f2"
+                },
+                {
+                    "name": "墨西哥",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPiAIpKJAAANJt5IiSs975.jpg",
+                    "act": "",
+                    "id": "f3"
+                },
+                {
+                    "name": "瑞典",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPmAEN_tAAALQa5s73U753.jpg",
+                    "act": "",
+                    "id": "f4"
+                }
+            ]
+        },
+        {
+            "name": "G",
+            "list": [
+                {
+                    "name": "比利时",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPeAZGFiAAAG-LDFBJQ726.jpg",
+                    "act": "",
+                    "id": "g1"
+                },
+                {
+                    "name": "英格兰",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPiAc2LuAAAKsFFuhHs647.jpg",
+                    "act": "",
+                    "id": "g2"
+                },
+                {
+                    "name": "巴拿马",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPmAeAO8AAALRlZI-ZI336.jpg",
+                    "act": "",
+                    "id": "g3"
+                },
+                {
+                    "name": "突尼斯",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPmAOHkoAAALqTdfRpk270.jpg",
+                    "act": "",
+                    "id": "g4"
+                },
+                {
+                    "name": "荷兰",
+                    "icon": "https://img1.dongqiudi.com/fastdfs3/M00/08/F7/ChMMFVsWLBeAUK53AAAJyblDgw4358.jpg",
+                    "act": "",
+                    "id": "g5"
+                },
+                {
+                    "name": "意大利",
+                    "icon": "https://img1.dongqiudi.com/fastdfs3/M00/08/F7/ChMMFVsWLAWAb4OkAAAI0DILALo176.jpg",
+                    "act": "",
+                    "id": "g6"
+                }
+                
+            ]
+        },
+        {
+            "name": "H",
+            "list": [
+                {
+                    "name": "哥伦比亚",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPiAN5PsAAAJk85XwmI083.jpg",
+                    "act": "",
+                    "id": "h1"
+                },
+                {
+                    "name": "日本",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/50/rB8CLFrwFPiAIGsKAAALS16jG4U532.jpg",
+                    "act": "",
+                    "id": "h2"
+                },
+                {
+                    "name": "波兰",
+                    "icon": "http://img.allfootballapp.com/www/M00/00/76/rB8ApFrwFPmADjwLAAAFndhZTY4521.jpg",
+                    "act": "",
+                    "id": "h3"
+                },
+                {
+                    "name": "塞内加尔",
+                    "icon": "http://img.allfootballapp.com/www/M00/6B/0E/rB8RDlrwFPmAcqc3AAAJP9nhoq8583.jpg",
+                    "act": "",
+                    "id": "h4"
+                },
+                {
+                    "name": "中国",
+                    "icon": "https://img1.dongqiudi.com/fastdfs3/M00/08/F5/ChOxM1sWK2uAYEJdAAAK-bN7PQs331.jpg",
+                    "act": "",
+                    "id": "h5"
+                },
+                {
+                    "name": "美国",
+                    "icon": "https://img1.dongqiudi.com/fastdfs3/M00/09/66/ChOxM1sXtGiADB9hAAAdKt817gk348.jpg",
+                    "act": "",
+                    "id": "h6"
+                }
+            ]
+        }
+]
